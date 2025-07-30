@@ -14,3 +14,4 @@
 
 - [2025/07/29 授業内容](./school-log/2025-07-29.md)
 
+- [Linuxコマンドまとめ](./linux/command-memo.md)
