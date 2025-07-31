@@ -7,10 +7,14 @@
 - Macにクローンして  初成功
 
 ## GitHub反映メモ
--nano README.md　README.md を開く
--git add README.md　コミット
--git commit -m リンク
--git push origin main プッシュ（反映）
+
+GitHub上に変更を反映する手順（更新するたびに実行）：
+
+- `nano README.md` で編集を開始する
+- ファイルを保存して閉じる
+- `git add README.md` で変更をステージに追加
+- `git commit -m "コミットメッセージ"` で変更を記録
+- `git push origin main` でGitHubに反映
 
 ## Linux 学習記録
 
