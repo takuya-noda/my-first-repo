@@ -6,6 +6,12 @@
 - hello.txt を作成してアップロード
 - Macにクローンして  初成功
 
+## GitHub反映メモ
+-nano README.md　README.md を開く
+-git add README.md　コミット
+-git commit -m リンク
+-git push origin main プッシュ（反映）
+
 ## Linux 学習記録
 
 - [2025/07/29 Linux学習ログ](./linux/2025-07-29.md)
