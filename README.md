@@ -21,7 +21,7 @@ GitHub上に変更を反映する手順（更新するたびに実行）：
 - [2025/07/29 Linux学習ログ](./linux/2025-07-29.md)
 - [2025/08/01 Linux学習ログ](linux/2025-08-01.md)
 
-- [Linuxコマンドまとめ](./linux/command-memo.md
+- [Linuxコマンドまとめ](./linux/command-memo.md)
 
 ## 職業訓練 学習記録
 
